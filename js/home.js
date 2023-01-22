@@ -38,9 +38,6 @@ document.getElementById('transaction-form').addEventListener('submit', function 
     getCashOut()
     getTotal()
 
-    alert('Success')
-
-
 })
 
 checkLogged();
