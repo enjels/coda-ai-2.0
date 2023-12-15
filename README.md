@@ -1,5 +1,3 @@
 # coda-ai-2.0
 
-repositorio codaí ai 2.0 projeto NIKE [Codaí](https://codai.growdev.com.br/).
-
-repository codaí ai 2.0 project NIKE [Codaí](https://codai.growdev.com.br/)project.
+<img src="https://i.pinimg.com/736x/ed/3a/3a/ed3a3a925bd3c48b84736a9c14a2608c.jpg" alt="coda-ai-2.0">
